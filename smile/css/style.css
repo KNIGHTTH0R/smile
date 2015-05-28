@@ -1,0 +1,46 @@
+.navbar{
+margin-top:20px;
+margin-left:20px;
+}
+
+.judul{
+margin-top:80px;
+margin-bottom:50px;
+margin-left:100px;
+}
+
+.contain{
+margin-left:100px;
+background:gray;
+width:250px;
+height:200px;
+padding:10px;
+}
+
+.form{
+background:gray;
+margin-top: 100px;
+margin-left: 200px;
+width: 200px;
+height: 160px;
+padding: 20px;
+}
+
+
+.table{
+background: white;
+margin-left: 200px;
+width: 700px;
+height: 150px;
+}
+
+.ab{
+background: white;
+margin-top: 200px;
+width: 300px;
+height: 150px;
+}
+
+
+
+
